@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="30dp">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 1" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 2" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 3" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 4" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 5" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 6" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 7" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 8" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 9" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 10" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 11" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 12" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 13" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 14" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 15" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 16" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 17" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 18" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 19" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 20" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 21" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 22" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnSample23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="sample 23" />
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+    </androidx.core.widget.NestedScrollView>
+
+</androidx.appcompat.widget.LinearLayoutCompat>
